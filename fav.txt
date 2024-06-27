@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 pizza 
 burger
 dosa
+=======
+bahubali2
+passenger
+fast & furious
+>>>>>>> movies
